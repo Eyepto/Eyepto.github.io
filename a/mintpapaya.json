@@ -1,0 +1,16 @@
+{
+	"v": "1",
+	"p": "e",
+	"n": "5",
+	"t": "f",
+	"ta": "0xd71a7Aef0b72B6C4aD5096320f27D6d1869d887C",
+	"d": {
+		"a": {
+            "inputs": [],
+            "name": "mint",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        }  
+	}
+}
